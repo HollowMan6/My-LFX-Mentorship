@@ -11,6 +11,8 @@
 [![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
 [![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/My-LFX-Mentorship.svg)](../../archive/master.zip)
 
+[Open Source Summit Europe 2024 Presentation](Kubescape-Songlin-Jiang.pptx)
+
 ![](https://hollowmansblog.files.wordpress.com/2023/05/lfx.jpg)
 
 This is my work and record under LFX Mentorship.
