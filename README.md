@@ -11,7 +11,9 @@
 [![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
 [![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/My-LFX-Mentorship.svg)](../../archive/master.zip)
 
-[Open Source Summit Europe 2024 Presentation](Kubescape-Songlin-Jiang.pptx)
+## Open Source Summit Europe 2024
+- [Presentation](Kubescape-Songlin-Jiang.pptx)
+- [Link to the recording](https://www.youtube.com/watch?v=uZCoipC6qRU&t=1773s)
 
 ![](https://hollowmansblog.files.wordpress.com/2023/05/lfx.jpg)
 
