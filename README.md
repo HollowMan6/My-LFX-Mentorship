@@ -13,7 +13,7 @@
 
 ## Open Source Summit Europe 2024
 - [Presentation](Kubescape-Songlin-Jiang.pptx)
-- [Link to the recording](https://www.youtube.com/watch?v=uZCoipC6qRU&t=1773s)
+- [Link to the recording](https://www.youtube.com/watch?v=ZBK5wKpvM3s&t=1773s)
 
 ![](https://hollowmansblog.files.wordpress.com/2023/05/lfx.jpg)
 
